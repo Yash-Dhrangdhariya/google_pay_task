@@ -1,6 +1,6 @@
 # Google Pay - Payment Demo
 
-https://github.com/Yash-Dhrangdhariya/google_pay_task/assets/72062416/29335469-5249-4d9f-af50-ffa66e1c9d83
+https://github.com/Yash-Dhrangdhariya/google_pay_task/assets/72062416/406657a1-559c-48a4-a3c9-86772080a626
 
 Developed by Yash Dhrangdhariya
 
