@@ -18,7 +18,6 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Google Pay Task',
       theme: ThemeData(
-        // colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         primaryColor: Colors.white,
         useMaterial3: true,
         filledButtonTheme: FilledButtonThemeData(
